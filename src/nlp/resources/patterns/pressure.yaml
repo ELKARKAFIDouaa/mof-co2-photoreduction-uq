@@ -1,0 +1,9 @@
+- name: conditions_reaction.pression_CO2_bar
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?bar\b'
+  unit: bar
+- name: conditions_reaction.pression_CO2_bar
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?atm\b'
+  unit: atm
+- name: conditions_reaction.pression_CO2_bar
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?MPa\b'
+  unit: MPa

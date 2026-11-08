@@ -1,0 +1,1605 @@
+[
+  {
+    "refcode": "Xu2022_APSUSC",
+    "doi": "10.1016/j.apsusc.2021.151792",
+    "mof": {
+      "nom": "Ni-MOF",
+      "famille": "autre",
+      "metal": "Ni",
+      "etat_oxydation": 2,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 300,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 20,
+      "duree_irradiation_h": 4,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.3,
+      "HOMO_eV_vs_NHE": 1.93,
+      "LUMO_eV_vs_NHE": -1.37,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 0.47,
+      "type_taux": "cumulatif",
+      "selectivite_pct": null,
+      "AQE_pct": 0.0008,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "PLD",
+        "selectivite",
+        "nombre_cycles"
+      ],
+      "notes": "MOF extrait du sludge électrolytique; réaction en phase gaz-solide sans agent sacrificiel; LUMO calculé à partir VB et band gap"
+    }
+  },
+  {
+    "refcode": "Xu2022_APSUSC",
+    "doi": "10.1016/j.apsusc.2021.151792",
+    "mof": {
+      "nom": "CdS/Ni-MOF",
+      "famille": "autre",
+      "metal": "Ni",
+      "etat_oxydation": 2,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "CdS",
+      "charge_pct": 20
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 300,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 20,
+      "duree_irradiation_h": 4,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.5,
+      "HOMO_eV_vs_NHE": 1.93,
+      "LUMO_eV_vs_NHE": -1.37,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 7.47,
+      "type_taux": "cumulatif",
+      "selectivite_pct": null,
+      "AQE_pct": 0.0474,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "PLD",
+        "selectivite",
+        "nombre_cycles"
+      ],
+      "notes": "Hétérostructure CdS/Ni-MOF 3D hiérarchique; performance 16x et 7x celle de Ni-MOF et CdS; LUMO du composite non reporté explicitement, valeurs de Ni-MOF utilisées"
+    }
+  },
+  {
+    "refcode": "Ma2020_APCATB",
+    "doi": "10.1016/j.apcatb.2020.118856",
+    "mof": {
+      "nom": "UiO-66",
+      "famille": "UiO",
+      "metal": "Zr",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1268,
+      "volume_pores_cm3_g": 0.48,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.86,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 1.0,
+      "type_taux": "moyen",
+      "selectivite_pct": 37.5,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "HOMO",
+        "LUMO",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "MOF de référence, faible activité; sélectivité CH4 vs CO = 37.5% (CO majoritaire en taux mais CH4 sélectivité rapportée); taux CO = 1.0 µmol/g/h (0.6 CH4 + 1.0 CO)"
+    }
+  },
+  {
+    "refcode": "Ma2020_APCATB",
+    "doi": "10.1016/j.apcatb.2020.118856",
+    "mof": {
+      "nom": "TiO2/UiO-66",
+      "famille": "UiO",
+      "metal": "Zr",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "TiO2",
+      "charge_pct": 81.3
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 452,
+      "volume_pores_cm3_g": 0.41,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.32,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CH4",
+      "taux_production_umol_g_h": 17.9,
+      "type_taux": "moyen",
+      "selectivite_pct": 90.4,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 25,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, FTIR, TEM"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "HOMO",
+        "LUMO",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "TU-10 optimisé; CH4 = 17.9 µmol/g/h, CO = 1.9 µmol/g/h; sélectivité CH4 = 90.4%; excellente stabilité sur 5 cycles"
+    }
+  },
+  {
+    "refcode": "Hong2024_CERAMINT",
+    "doi": "10.1016/j.ceramint.2024.09.055",
+    "mof": {
+      "nom": "Mo-MOF",
+      "famille": "autre",
+      "metal": "Mo",
+      "etat_oxydation": 6,
+      "ligand": "imidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 0.7,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.06,
+      "HOMO_eV_vs_NHE": 2.75,
+      "LUMO_eV_vs_NHE": -0.31,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 7.98,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "PLD",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "MOF précurseur pour dérivation en MoO3; LUMO calculé à partir VB et band gap"
+    }
+  },
+  {
+    "refcode": "Hong2024_CERAMINT",
+    "doi": "10.1016/j.ceramint.2024.09.055",
+    "mof": {
+      "nom": "MOF-MoO3-x",
+      "famille": "autre",
+      "metal": "Mo",
+      "etat_oxydation": 5,
+      "ligand": "imidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "derive"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 0.7,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 13.84,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.01,
+      "HOMO_eV_vs_NHE": 2.5,
+      "LUMO_eV_vs_NHE": 0.49,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 29.1,
+      "type_taux": "moyen",
+      "selectivite_pct": 98.77,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 15,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "PLD",
+        "volume_pores_cm3_g",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "MOF-MoO3-x 2.5h optimal; 3.7x MOF-MoO3 et 2.4x H-MoO3; lacunes d'oxygène améliorent adsorption CO2 et séparation de charges; LUMO = VB - gap"
+    }
+  },
+  {
+    "refcode": "Wu2023_CHEMPHYSMATER",
+    "doi": "10.1016/j.chphma.2022.03.003",
+    "mof": {
+      "nom": "Cu-MOF-74",
+      "famille": "MOF-74",
+      "metal": "Cu",
+      "etat_oxydation": 2,
+      "ligand": "H2dhpt",
+      "groupe_fonctionnel": "OH",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": 200,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 8,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH4",
+      "taux_production_umol_g_h": null,
+      "type_taux": "autre",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "taux_production",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "Film mince Cu2O@Cu-MOF-74; taux CH4 = 0.36 µmol/h (non normalisé par g); 4.5x Cu2O nu; conditions gaz-solide avec vapeur d'eau; MOF seul non actif"
+    }
+  },
+  {
+    "refcode": "Wu2023_CHEMPHYSMATER",
+    "doi": "10.1016/j.chphma.2022.03.003",
+    "mof": {
+      "nom": "Cu2O@Cu-MOF-74",
+      "famille": "MOF-74",
+      "metal": "Cu",
+      "etat_oxydation": 2,
+      "ligand": "H2dhpt",
+      "groupe_fonctionnel": "OH",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "Cu2O",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": 200,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 8,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.03,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH4",
+      "taux_production_umol_g_h": 0.36,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, SEM"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "HOMO",
+        "LUMO",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "Coquille Cu-MOF-74 sur nanofils Cu2O; 4.5x Cu2O nu; taux 0.36 µmol/h (masse non précisée, ~mg); pas de H2 ni CO détectés"
+    }
+  },
+  {
+    "refcode": "Zhang2024_JALCOM",
+    "doi": "10.1016/j.jallcom.2024.173735",
+    "mof": {
+      "nom": "MIL-125(Ti)",
+      "famille": "MIL",
+      "metal": "Ti",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 100,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 4,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": null,
+      "type_taux": "autre",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "taux_production",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "MOF précurseur pour dérivation en TiO2; performance non reportée pour MIL-125(Ti) pur"
+    }
+  },
+  {
+    "refcode": "Zhang2024_JALCOM",
+    "doi": "10.1016/j.jallcom.2024.173735",
+    "mof": {
+      "nom": "8Cu/H-TiO2",
+      "famille": "MIL",
+      "metal": "Ti",
+      "etat_oxydation": 3,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "derive"
+    },
+    "cocatalyseur": {
+      "type": "Cu",
+      "charge_pct": 8
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 100,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 4,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 593.3,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.2,
+      "HOMO_eV_vs_NHE": 2.05,
+      "LUMO_eV_vs_NHE": -1.15,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 135.0,
+      "type_taux": "moyen",
+      "selectivite_pct": 85.18,
+      "AQE_pct": 3.71,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 4,
+      "duree_totale_h": 16,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, TEM"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "retention_pct"
+      ],
+      "notes": "Nanocages ovales TiO2 dérivés de MIL-125(Ti); jonctions Schottky Cu/TiO2 + lacunes d'oxygène; 2.5x TiO2 pur (54.1 µmol/g/h); LUMO = EFB - 0.2V; sélectivité CO = 85.18%"
+    }
+  },
+  {
+    "refcode": "Liu2017_APCATB",
+    "doi": "10.1016/j.apcatb.2017.04.009",
+    "mof": {
+      "nom": "ZIF-8",
+      "famille": "ZIF",
+      "metal": "Zn",
+      "etat_oxydation": 2,
+      "ligand": "2-methylimidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 1,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1345,
+      "volume_pores_cm3_g": 0.66,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CH3OH",
+      "taux_production_umol_g_h": 0,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "ZIF-8 seul : pas d'activité photocatalytique (transparent, non-semiconducteur); utilisé comme antenne d'adsorption CO2"
+    }
+  },
+  {
+    "refcode": "Liu2017_APCATB",
+    "doi": "10.1016/j.apcatb.2017.04.009",
+    "mof": {
+      "nom": "TCN/ZIF-8",
+      "famille": "ZIF",
+      "metal": "Zn",
+      "etat_oxydation": 2,
+      "ligand": "2-methylimidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "g-C3N4",
+      "charge_pct": 10.3
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 1,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 190,
+      "volume_pores_cm3_g": 0.032,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.1,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": -1.32,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH3OH",
+      "taux_production_umol_g_h": 0.75,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "HOMO",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "TCN = nanotubes g-C3N4 troués; TCNZ8 optimisé (ratio ZIF-8:g-C3N4 = 1:8); 3x BCN; LUMO = flat band potential (Mott-Schottky); ZIF-8 transparent, n'affecte pas l'absorption"
+    }
+  },
+  {
+    "refcode": "Fu2023_APCATB",
+    "doi": "10.1016/j.apcatb.2018.08.004",
+    "mof": {
+      "nom": "ACOF-1",
+      "famille": "COF",
+      "metal": "none",
+      "etat_oxydation": null,
+      "ligand": "TFB-hydrazine",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_500W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 4.0,
+      "temperature_C": 80,
+      "duree_irradiation_h": 24,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1053,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.68,
+      "HOMO_eV_vs_NHE": -5.0,
+      "LUMO_eV_vs_NHE": -2.54,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH3OH",
+      "taux_production_umol_g_h": 0.34,
+      "type_taux": "cumulatif",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "COF sans métal; 8.2 µmol/g CH3OH sur 24h soit 0.34 µmol/g/h; HOMO/LUMO en eV vs vide (converti NHE non spécifié); pas d'agent sacrificiel"
+    }
+  },
+  {
+    "refcode": "Fu2023_APCATB",
+    "doi": "10.1016/j.apcatb.2018.08.004",
+    "mof": {
+      "nom": "N3-COF",
+      "famille": "COF",
+      "metal": "none",
+      "etat_oxydation": null,
+      "ligand": "N3-Ald-hydrazine",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_500W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 4.0,
+      "temperature_C": 80,
+      "duree_irradiation_h": 24,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1412,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.57,
+      "HOMO_eV_vs_NHE": -4.95,
+      "LUMO_eV_vs_NHE": -2.71,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH3OH",
+      "taux_production_umol_g_h": 0.57,
+      "type_taux": "cumulatif",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 120,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, FTIR, N2 adsorption"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "selectivite",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "13.7 µmol/g CH3OH sur 24h soit 0.57 µmol/g/h; 2x ACOF-1; stable sur 5 cycles; HOMO/LUMO en eV vs vide"
+    }
+  },
+  {
+    "refcode": "Chen2020_APCATB",
+    "doi": "10.1016/j.apcatb.2020.118915",
+    "mof": {
+      "nom": "UiO-66",
+      "famille": "UiO",
+      "metal": "Zr",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 650,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 150,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1228.9,
+      "volume_pores_cm3_g": 0.59,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.05,
+      "HOMO_eV_vs_NHE": 2.1,
+      "LUMO_eV_vs_NHE": -0.95,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 5.77,
+      "type_taux": "moyen",
+      "selectivite_pct": 95.1,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "Photothermocatalyse (UV-vis-IR, 150°C); sélectivité CO = 95.1%; LUMO = CB calculé à partir VB et gap"
+    }
+  },
+  {
+    "refcode": "Chen2020_APCATB",
+    "doi": "10.1016/j.apcatb.2020.118915",
+    "mof": {
+      "nom": "1.9%Bi2S3/UiO-66",
+      "famille": "UiO",
+      "metal": "Zr",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "Bi2S3",
+      "charge_pct": 1.9
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 650,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 150,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1309.4,
+      "volume_pores_cm3_g": 0.77,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 3.10,
+      "HOMO_eV_vs_NHE": 2.04,
+      "LUMO_eV_vs_NHE": -1.06,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 25.6,
+      "type_taux": "moyen",
+      "selectivite_pct": 99.0,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 15,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, FTIR, TEM"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "Bi2S3 dopé en masse dans UiO-66 par voie hydrothermale in situ; 4.43x UiO-66; photothermocatalyse assistée; LUMO = CB calculé"
+    }
+  },
+  {
+    "refcode": "Hu2021_APCATB",
+    "doi": "10.1016/j.apcatb.2021.120635",
+    "mof": {
+      "nom": "none",
+      "famille": "none",
+      "metal": "none",
+      "etat_oxydation": null,
+      "ligand": "none",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "none"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": 2000,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 86,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 118,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CH4",
+      "taux_production_umol_g_h": 18.3,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": 0
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 15,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, FTIR"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "selectivite",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "Pas de MOF; TiO2 + membrane photothermique (PPy) pour générer vapeur d'eau chaude; CH4 = 18.3 µmol/g/h (3.3x sans PM); CO < 1 µmol/g/h; pas de H2 détecté; référence pour l'effet de l'humidité"
+    }
+  },
+  {
+    "refcode": "Huang2024_APCATB",
+    "doi": "10.1016/j.apcatb.2024.124019",
+    "mof": {
+      "nom": "ZIF-67",
+      "famille": "ZIF",
+      "metal": "Co",
+      "etat_oxydation": 2,
+      "ligand": "2-methylimidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": 920,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3.5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": null,
+      "type_taux": "autre",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "taux_production",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "MOF précurseur pour dérivation en Co3S4/NC; performance non reportée pour ZIF-67 pur"
+    }
+  },
+  {
+    "refcode": "Huang2024_APCATB",
+    "doi": "10.1016/j.apcatb.2024.124019",
+    "mof": {
+      "nom": "Co3S4/NC@ZnS/NC",
+      "famille": "ZIF",
+      "metal": "Co",
+      "etat_oxydation": 3,
+      "ligand": "2-methylimidazole",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "derive"
+    },
+    "cocatalyseur": {
+      "type": "ZnS",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": 920,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3.5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 121.63,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 1.73,
+      "HOMO_eV_vs_NHE": 0.91,
+      "LUMO_eV_vs_NHE": -0.82,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 28.44,
+      "type_taux": "moyen",
+      "selectivite_pct": 66.99,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 17.5,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, SEM"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "Cœur-coquille ZIF-67@ZIF-8 dérivé; CO = 28.44, CH4 = 1.93, C2H4 = 12.23 µmol/g/h; sélectivité C2H4 = 66.99%; LUMO = CB (Co3S4/NC); deux composants (Co3S4 et ZnS) avec gaps"
+    }
+  },
+  {
+    "refcode": "Huang2023_CEJ",
+    "doi": "10.1016/j.cej.2023.145740",
+    "mof": {
+      "nom": "MIL-88A",
+      "famille": "MIL",
+      "metal": "Fe",
+      "etat_oxydation": 3,
+      "ligand": "fumarate",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3.5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": null,
+      "type_taux": "autre",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "taux_production",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "MOF précurseur pour dérivation en FeSx; performance non reportée pour MIL-88A pur"
+    }
+  },
+  {
+    "refcode": "Huang2023_CEJ",
+    "doi": "10.1016/j.cej.2023.145740",
+    "mof": {
+      "nom": "FeSx@ZnS@CoSx",
+      "famille": "MIL",
+      "metal": "Fe",
+      "etat_oxydation": 3,
+      "ligand": "fumarate",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "derive"
+    },
+    "cocatalyseur": {
+      "type": "ZnS/CoSx",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 420,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "none",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 1.013,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3.5,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 25.76,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 1.6,
+      "HOMO_eV_vs_NHE": 0.85,
+      "LUMO_eV_vs_NHE": -0.75,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 69.9,
+      "type_taux": "moyen",
+      "selectivite_pct": 89.69,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 17.5,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, SEM, FTIR"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "Cœur double-coquille MOF-on-MOF ternaire; CO = 69.90, CH4 = 2.01 µmol/g/h; sélectivité CO = 89.69%; LUMO = CB (CoSx); double hétérojonction type II"
+    }
+  },
+  {
+    "refcode": "Li2020_CEJ",
+    "doi": "10.1016/j.cej.2020.125782",
+    "mof": {
+      "nom": "MIL-125(Ti)",
+      "famille": "MIL",
+      "metal": "Ti",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "pristine"
+    },
+    "cocatalyseur": {
+      "type": "none",
+      "charge_pct": null
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "H2O",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 10.0,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1803.14,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": 2.4,
+      "HOMO_eV_vs_NHE": -1.31,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CO",
+      "taux_production_umol_g_h": 22.8,
+      "type_taux": "cumulatif",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "volume_pores_cm3_g",
+        "LUMO",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "Réaction en autoclave (phase liquide, 1 MPa CO2, 1 mL H2O); CO = 22.8 µmol/g (cumulé sur 3h, soit 7.6 µmol/g/h); CH3OH = 50.2 µmol/g; LUMO non disponible; HOMO = VB"
+    }
+  },
+  {
+    "refcode": "Li2020_CEJ",
+    "doi": "10.1016/j.cej.2020.125782",
+    "mof": {
+      "nom": "g-C3N4/CuO@MIL-125(Ti)",
+      "famille": "MIL",
+      "metal": "Ti",
+      "etat_oxydation": 4,
+      "ligand": "BDC",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": true,
+      "type_structure": "composite"
+    },
+    "cocatalyseur": {
+      "type": "CuO QDs + g-C3N4",
+      "charge_pct": 1.0
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": null,
+      "intensite_mW_cm2": null,
+      "agent_sacrificiel": "none",
+      "solvant": "H2O",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 10.0,
+      "temperature_C": 25,
+      "duree_irradiation_h": 3,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": 1021.415,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": -1.00,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": true
+    },
+    "performance": {
+      "produit_majoritaire": "CH3CH2OH",
+      "taux_production_umol_g_h": 501.9,
+      "type_taux": "cumulatif",
+      "selectivite_pct": 57.4,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": null
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": 5,
+      "duree_totale_h": 15,
+      "retention_pct": null,
+      "caracterisation_post": "XRD, TEM, XPS"
+    },
+    "qualite": {
+      "features_manquantes": [
+        "band_gap",
+        "LUMO",
+        "AQE",
+        "retention_pct"
+      ],
+      "notes": "2.5%g-C3N4/1%CuO@MIL-125(Ti); produits: CO 180.1, CH3OH 997.2, CH3CHO 531.5, CH3CH2OH 1505.7 µmol/g (cumulé sur 3h); taux moyen total = 501.9 µmol/g/h; sélectivité éthanol 57.4%; HOMO = VB du composite"
+    }
+  },
+  {
+    "refcode": "Xiong2016_CATCOM",
+    "doi": "10.1016/j.catcom.2016.10.010",
+    "mof": {
+      "nom": "none",
+      "famille": "none",
+      "metal": "none",
+      "etat_oxydation": null,
+      "ligand": "none",
+      "groupe_fonctionnel": "none",
+      "sites_metalliques_ouverts": false,
+      "type_structure": "none"
+    },
+    "cocatalyseur": {
+      "type": "Pt",
+      "charge_pct": 0.5
+    },
+    "conditions_reaction": {
+      "source_lumiere": "xenon_300W",
+      "longueur_onde_nm": 300,
+      "intensite_mW_cm2": 20.5,
+      "agent_sacrificiel": "none",
+      "solvant": "H2O",
+      "concentration_catalyseur_g_L": null,
+      "pression_CO2_bar": 0.71,
+      "temperature_C": 20,
+      "duree_irradiation_h": 4,
+      "atmosphere": "CO2_H2O"
+    },
+    "proprietes_structurales": {
+      "BET_m2_g": null,
+      "volume_pores_cm3_g": null,
+      "PLD_angstrom": null,
+      "void_fraction": null
+    },
+    "proprietes_electroniques": {
+      "band_gap_eV": null,
+      "HOMO_eV_vs_NHE": null,
+      "LUMO_eV_vs_NHE": null,
+      "absorption_visible": false
+    },
+    "performance": {
+      "produit_majoritaire": "CH4",
+      "taux_production_umol_g_h": 1.1,
+      "type_taux": "moyen",
+      "selectivite_pct": null,
+      "AQE_pct": null,
+      "TON": null,
+      "H2_concurrent_umol_g_h": 42.0
+    },
+    "stabilite_photocatalytique": {
+      "nombre_cycles": null,
+      "duree_totale_h": null,
+      "retention_pct": null,
+      "caracterisation_post": null
+    },
+    "qualite": {
+      "features_manquantes": [
+        "BET",
+        "band_gap",
+        "HOMO",
+        "LUMO",
+        "selectivite",
+        "AQE",
+        "nombre_cycles"
+      ],
+      "notes": "Pas de MOF; Pt/TiO2 en mode combiné (liquide + gaz); CH4 = 1.1 µmol/g/h, CO = 0.22 µmol/g/h; H2 = 42 µmol/g/h; référence pour l'effet du mode réactionnel"
+    }
+  }
+]

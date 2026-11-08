@@ -1,0 +1,17 @@
+temperature:
+  C: {to: C, factor: 1, offset: 0}
+  K: {to: C, factor: 1, offset: -273.15}
+pressure:
+  bar: {to: bar, factor: 1}
+  atm: {to: bar, factor: 1.01325}
+  MPa: {to: bar, factor: 10.0}
+  kPa: {to: bar, factor: 0.01}
+time:
+  h:   {to: h, factor: 1}
+  min: {to: h, factor: 0.0166666667}
+surface_area:
+  "m2/g": {to: "m2/g", factor: 1}
+band_gap:
+  eV: {to: eV, factor: 1}
+production_rate:
+  "umol/g/h": {to: "umol/g/h", factor: 1}

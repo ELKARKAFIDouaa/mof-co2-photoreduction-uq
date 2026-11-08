@@ -1,0 +1,6 @@
+- name: proprietes_electroniques.HOMO_eV_vs_NHE
+  regex: 'HOMO[^.\d\-]{0,30}?(?P<value>[-+]?\d+(?:\.\d+)?)\s?eV'
+  unit: eV
+- name: proprietes_electroniques.LUMO_eV_vs_NHE
+  regex: 'LUMO[^.\d\-]{0,30}?(?P<value>[-+]?\d+(?:\.\d+)?)\s?eV'
+  unit: eV

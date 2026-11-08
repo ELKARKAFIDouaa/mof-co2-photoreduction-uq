@@ -1,0 +1,8 @@
+xenon_300W
+xenon_lamp
+Hg_lamp
+LED
+visible_light
+UV_light
+solar_simulator
+AM1.5G

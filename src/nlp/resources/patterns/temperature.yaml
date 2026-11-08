@@ -1,0 +1,6 @@
+- name: conditions_reaction.temperature_C
+  regex: '(?P<value>[+-]?\d+(?:\.\d+)?)\s?(?:°C|°\s?C|degC)\b'
+  unit: C
+- name: conditions_reaction.temperature_C
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?K\b'
+  unit: K

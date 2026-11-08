@@ -1,0 +1,6 @@
+- name: conditions_reaction.duree_irradiation_h
+  regex: '(?:irradiat|illuminat|photocatalyti|reaction)[^.\d]{0,60}?(?P<value>\d+(?:\.\d+)?)\s?(?:h|hours?)\b'
+  unit: h
+- name: conditions_reaction.duree_irradiation_h
+  regex: '(?:irradiat|illuminat|photocatalyti|reaction)[^.\d]{0,60}?(?P<value>\d+(?:\.\d+)?)\s?(?:min|minutes?)\b'
+  unit: min

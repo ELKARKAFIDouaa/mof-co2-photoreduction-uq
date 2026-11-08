@@ -1,0 +1,11 @@
+(
+echo __pycache__/
+echo *.pyc
+echo .ipynb_checkpoints/
+echo venv*/
+echo mlruns/
+echo mlflow*
+echo *.db
+echo models/saved_models/
+echo models/scalers/
+) > .gitignore

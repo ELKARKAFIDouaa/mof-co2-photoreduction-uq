@@ -1,0 +1,63 @@
+[UNMATCHED GOLD] ref='Hong2024_CERAMINT' doi='10.1016/j.ceramint.2024.09.055' mof='Mo-MOF'
+[UNMATCHED GOLD] ref='Hong2024_CERAMINT' doi='10.1016/j.ceramint.2024.09.055' mof='MOF-MoO3-x'
+[UNMATCHED GOLD] ref='Wu2023_CHEMPHYSMATER' doi='10.1016/j.chphma.2022.03.003' mof='Cu-MOF-74'
+[UNMATCHED GOLD] ref='Wu2023_CHEMPHYSMATER' doi='10.1016/j.chphma.2022.03.003' mof='Cu2O@Cu-MOF-74'
+[UNMATCHED GOLD] ref='Liu2017_APCATB' doi='10.1016/j.apcatb.2017.04.009' mof='TCN/ZIF-8'
+[UNMATCHED GOLD] ref='Hu2021_APCATB' doi='10.1016/j.apcatb.2021.120635' mof='none'
+[Zhang2024_JALCOM] Band gap (eV): gold=3.2 pred=2.87
+[Zhang2024_JALCOM] ΔLUMO CH₄ (eV): gold=-1.15 pred=-0.82
+[Zhang2024_JALCOM] Solvent: gold='none' pred='h2o'
+[Zhang2024_JALCOM] Light source: gold='xenon 300w' pred='solaire simule'
+[Zhang2024_JALCOM] Cocatalyst type: gold='none' pred='cu'
+[Zhang2024_JALCOM] Solvent: gold='none' pred='h2o'
+[Zhang2024_JALCOM] Light source: gold='xenon 300w' pred='solaire simule'
+[Huang2023_CEJ] Solvent: gold='none' pred='h2o vapor'
+[Huang2023_CEJ] Cocatalyst type: gold='zns/cosx' pred='none'
+[Huang2023_CEJ] Ligand: gold='fumarate' pred='fumarate/2 methylimidazole'
+[Huang2023_CEJ] Metal: gold='fe' pred='fe/zn/co'
+[Huang2023_CEJ] Band gap (eV): gold=1.6 pred=None
+[Huang2023_CEJ] ΔLUMO CH₄ (eV): gold=-0.75 pred=None
+[Huang2023_CEJ] Solvent: gold='none' pred='h2o vapor'
+[Chen2020_APCATB] Cocatalyst type: gold='bi2s3' pred='none'
+[Chen2020_APCATB] Ligand: gold='bdc' pred='btc'
+[Chen2020_APCATB] Cocatalyst charge (%): gold=1.9 pred=None
+[Chen2020_APCATB] Solvent: gold='none' pred='h2o'
+[Chen2020_APCATB] Ligand: gold='bdc' pred='btc'
+[Chen2020_APCATB] Solvent: gold='none' pred='h2o'
+[Ma2020_APCATB] Solvent: gold='none' pred='h2o'
+[Ma2020_APCATB] Cocatalyst type: gold='tio2' pred='none'
+[Ma2020_APCATB] Band gap (eV): gold=3.32 pred=None
+[Ma2020_APCATB] Cocatalyst charge (%): gold=81.3 pred=None
+[Ma2020_APCATB] BET × irradiation time: gold=2260.0 pred=None
+[Ma2020_APCATB] Solvent: gold='none' pred='h2o'
+[Ma2020_APCATB] BET surface (m²/g): gold=452.0 pred=None
+[Xu2022_APSUSC] Cocatalyst type: gold='cds' pred='none'
+[Xu2022_APSUSC] Band gap (eV): gold=2.5 pred=2.0
+[Xu2022_APSUSC] ΔLUMO CH₄ (eV): gold=-1.37 pred=-0.94
+[Xu2022_APSUSC] Cocatalyst charge (%): gold=20.0 pred=None
+[Li2020_CEJ] Band gap (eV): gold=2.4 pred=None
+[Li2020_CEJ] Light source: gold='xenon 300w' pred='solaire simulé'
+[Li2020_CEJ] Cocatalyst type: gold='cuo qds + g c3n4' pred='none'
+[Li2020_CEJ] Cocatalyst charge (%): gold=1.0 pred=None
+[Li2020_CEJ] BET × irradiation time: gold=3064.245 pred=4277.88
+[Li2020_CEJ] BET surface (m²/g): gold=1021.415 pred=1425.96
+[Li2020_CEJ] Light source: gold='xenon 300w' pred='solaire simulé'
+[Fu2023_APCATB] Ligand: gold='tfb hydrazine' pred='triformylbenzene'
+[Fu2023_APCATB] Metal: gold='none' pred=None
+[Fu2023_APCATB] Solvent: gold='none' pred='h2o'
+[Fu2023_APCATB] Light source: gold='xenon 500w' pred='xenon 300w'
+[Fu2023_APCATB] Ligand: gold='n3 ald hydrazine' pred='tris(4 formylphenyl)triazine'
+[Fu2023_APCATB] Metal: gold='none' pred=None
+[Fu2023_APCATB] Solvent: gold='none' pred='h2o'
+[Fu2023_APCATB] Light source: gold='xenon 500w' pred='xenon 300w'
+[Huang2024_APCATB] Cocatalyst type: gold='zns' pred='none'
+[Huang2024_APCATB] Metal: gold='co' pred='co/zn'
+[Huang2024_APCATB] Band gap (eV): gold=1.73 pred=None
+[Huang2024_APCATB] ΔLUMO CH₄ (eV): gold=-0.82 pred=None
+[Xiong2016_CATCOM] Ligand: gold='none' pred=''
+[Xiong2016_CATCOM] Metal: gold='none' pred=''
+[Xiong2016_CATCOM] Solvent: gold='h2o' pred='h2o vapor'
+[Xiong2016_CATCOM] Light source: gold='xenon 300w' pred='uv'
+[Liu2017_APCATB] BET × irradiation time: gold=1345.0 pred=190.0
+[Liu2017_APCATB] Solvent: gold='none' pred='h2o'
+[Liu2017_APCATB] BET surface (m²/g): gold=1345.0 pred=190.0

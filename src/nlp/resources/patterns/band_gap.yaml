@@ -1,0 +1,3 @@
+- name: proprietes_electroniques.band_gap_eV
+  regex: '(?:band\s?gap|E\s?g)[^.\d]{0,30}?(?P<value>[0-5](?:\.\d+)?)\s?eV'
+  unit: eV

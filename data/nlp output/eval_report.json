@@ -1,0 +1,76 @@
+{
+  "_gold_records": 24,
+  "_matched_gold_rows": 18,
+  "_coverage_gold_rows": 0.75,
+  "Cocatalyst type": {
+    "n_ref": 18,
+    "coverage": 0.75,
+    "precision": 0.6111111111111112,
+    "recall": 1.0,
+    "f1": 0.7586206896551725
+  },
+  "Ligand": {
+    "n_ref": 18,
+    "coverage": 0.75,
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1": 0.8
+  },
+  "Metal": {
+    "n_ref": 18,
+    "coverage": 0.75,
+    "precision": 0.8125,
+    "recall": 0.8666666666666667,
+    "f1": 0.8387096774193549
+  },
+  "Band gap (eV)": {
+    "n_ref": 12,
+    "coverage": 0.75,
+    "precision": 0.75,
+    "recall": 0.6,
+    "f1": 0.6666666666666665
+  },
+  "ΔLUMO CH₄ (eV)": {
+    "n_ref": 9,
+    "coverage": 0.75,
+    "precision": 0.7142857142857143,
+    "recall": 0.7142857142857143,
+    "f1": 0.7142857142857143
+  },
+  "Cocatalyst charge (%)": {
+    "n_ref": 6,
+    "coverage": 0.8571428571428571,
+    "precision": 0.85,
+    "recall": 0.3333333333333333,
+    "f1": 0.5
+  },
+  
+  "BET × irradiation time": {
+    "n_ref": 12,
+    "coverage": 0.8,
+    "precision": 0.8181818181818182,
+    "recall": 0.9,
+    "f1": 0.8571428571428572
+  },
+  "Solvent": {
+    "n_ref": 18,
+    "coverage": 0.75,
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "f1": 0.5
+  },
+  "BET surface (m²/g)": {
+    "n_ref": 12,
+    "coverage": 0.8,
+    "precision": 0.8181818181818182,
+    "recall": 0.9,
+    "f1": 0.8571428571428572
+  },
+  "Light source": {
+    "n_ref": 18,
+    "coverage": 0.75,
+    "precision": 0.6111111111111112,
+    "recall": 1.0,
+    "f1": 0.7586206896551725
+  }
+}

@@ -1,0 +1,6 @@
+- name: performance.taux_production_umol_g_h
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?(?:µmol|μmol|umol)\s?[·\.]?\s?g\s?-?1\s?[·\.]?\s?h\s?-?1'
+  unit: umol/g/h
+- name: performance.taux_production_umol_g_h
+  regex: '(?P<value>\d+(?:\.\d+)?)\s?(?:µmol|μmol|umol)\s?g\s?-?1\s?h\s?-?1'
+  unit: umol/g/h

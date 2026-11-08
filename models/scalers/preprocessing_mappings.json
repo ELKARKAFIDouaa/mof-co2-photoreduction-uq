@@ -1,0 +1,62 @@
+{
+  "cibles_finales": [
+    "taux_log",
+    "performance.selectivite_pct",
+    "produit_classe"
+  ],
+  "colonnes_binaires": [
+    "proprietes_electroniques.absorption_visible",
+    "flag_taux_extreme",
+    "flag.charge_inconnue",
+    "flag.duree_imputee",
+    "flag.conc_imputee",
+    "flag.intensite_reportee",
+    "flag.longueur_onde_imputee",
+    "flag.sites_ouverts_connu",
+    "flag.BET_imputed",
+    "flag.volume_pores_connu",
+    "flag.band_gap_imputed",
+    "flag.HOMO_imputed",
+    "flag.LUMO_imputed",
+    "mof.type_structure_MOF-derived",
+    "mof.type_structure_composite",
+    "mof.type_structure_heterojunction",
+    "mof.type_structure_pristine",
+    "mof.etat_oxydation_2",
+    "mof.etat_oxydation_3",
+    "mof.etat_oxydation_4",
+    "mof.etat_oxydation_6",
+    "mof.etat_oxydation_6/5",
+    "mof.etat_oxydation_inconnu",
+    "atmosphere_CO2_H2O",
+    "atmosphere_CO2_pur",
+    "atmosphere_CO2_sature",
+    "atmosphere_O2",
+    "has_cocatalyseur"
+  ],
+  "colonnes_target_enc": [
+    "mof.famille_enc",
+    "mof.metal_enc",
+    "mof.ligand_enc",
+    "mof.groupe_fonctionnel_enc",
+    "cocatalyseur.type_enc",
+    "conditions_reaction.agent_sacrificiel_enc",
+    "conditions_reaction.solvant_enc",
+    "source_lumiere_enc"
+  ],
+  "colonnes_continues": [
+    "cocatalyseur.charge_pct",
+    "conditions_reaction.longueur_onde_nm",
+    "conditions_reaction.concentration_catalyseur_g_L",
+    "conditions_reaction.pression_CO2_bar",
+    "conditions_reaction.temperature_C",
+    "conditions_reaction.duree_irradiation_h",
+    "proprietes_structurales.BET_m2_g",
+    "proprietes_electroniques.band_gap_eV",
+    "proprietes_electroniques.HOMO_eV_vs_NHE",
+    "proprietes_electroniques.LUMO_eV_vs_NHE",
+    "delta_LUMO_CO2",
+    "delta_LUMO_CH4",
+    "BET_x_duree"
+  ]
+}

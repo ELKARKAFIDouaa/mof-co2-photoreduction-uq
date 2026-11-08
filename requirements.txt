@@ -1,0 +1,32 @@
+# ── Web framework ────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+
+# ── ML core ─────────────────────────────────────────────────
+scikit-learn==1.8.0
+numpy==2.3.5           # identique à mofs_ia_pfe → résout MT19937
+scipy==1.15.3          # 1.13 bloquait numpy>=2.3
+pandas==2.2.2
+joblib==1.5.3
+
+# ── Modèles spécifiques ──────────────────────────────────────
+xgboost==2.0.3
+lightgbm==4.3.0
+
+# ── Explainability ───────────────────────────────────────────
+shap==0.47.2           
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# ── MLflow tracking ─────────────────────────────────────────
+mlflow==2.16.2         # 2.13 avait numpy<2 comme contrainte
+
+# ── HTTP client ──────────────────────────────────────────────
+requests==2.31.0
+httpx==0.27.0
+
+# ── Utilitaires ─────────────────────────────────────────────
+python-dotenv==1.0.1
+Pillow==10.3.0

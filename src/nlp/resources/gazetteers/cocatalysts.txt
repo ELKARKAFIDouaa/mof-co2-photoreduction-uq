@@ -1,0 +1,9 @@
+none
+Pt
+Au
+Ag
+Pd
+Ru
+Ni
+Co
+Cu

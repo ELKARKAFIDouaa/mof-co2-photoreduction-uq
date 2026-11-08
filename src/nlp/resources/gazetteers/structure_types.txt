@@ -1,0 +1,5 @@
+pristine
+composite
+doped
+defective
+mixed_matrix

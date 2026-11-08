@@ -1,0 +1,28 @@
+============================================================
+CLASSIFICATION EVALUATION REPORT
+============================================================
+
+Models evaluated : ['LogisticRegression', 'RandomForest', 'LightGBM', 'SVM_RBF']
+Target           : produit_classe
+Classes          : ['C1_liquide', 'CH4', 'CO', 'autre']
+CV               : 5-Fold OOF
+
+--- OOF METRICS ---
+  LogisticRegression     F1=0.4998  AUC=0.7768  LogLoss=1.0942  ECE=0.1190  Acc=0.5440
+  RandomForest           F1=0.6903  AUC=0.9177  LogLoss=0.6445  ECE=0.1559  Acc=0.7980
+  LightGBM               F1=0.7146  AUC=0.9007  LogLoss=0.6197  ECE=0.0546  Acc=0.8111
+  SVM_RBF                F1=0.5930  AUC=0.8778  LogLoss=0.6741  ECE=0.0581  Acc=0.6710
+
+Best model (F1)  : LightGBM
+
+--- CV STABILITY (best model) ---
+  F1_macro_mean                  : 0.71
+  F1_macro_std                   : 0.055
+  AUC_OvR_mean                   : 0.9039
+  AUC_OvR_std                    : 0.0193
+  LogLoss_mean                   : 0.6196
+  LogLoss_std                    : 0.083
+  ECE_mean                       : 0.1117
+  ECE_std                        : 0.0235
+  Accuracy_mean                  : 0.8111
+  Accuracy_std                   : 0.0375

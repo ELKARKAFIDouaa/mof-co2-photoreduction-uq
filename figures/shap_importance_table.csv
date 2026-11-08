@@ -1,0 +1,13 @@
+Feature,Feature_raw,Mean_abs_SHAP,Encoding
+Cocatalyst type (enc.),cocatalyseur.type_enc,0.85642135,numeric
+Ligand (enc.),mof.ligand_enc,0.47191545,numeric
+Metal (enc.),mof.metal_enc,0.40540966,target_enc
+Band Gap (eV),proprietes_electroniques.band_gap_eV,0.20144276,target_enc
+ΔLUMO CH₄ (eV),delta_LUMO_CH4,0.18509813,ordinal_enc
+Cocatalyst charge (%),cocatalyseur.charge_pct,0.17437905,interaction
+Catalyst conc. (g/L),conditions_reaction.concentration_catalyseur_g_L,0.1375526,numeric
+BET × Irradiation time,BET_x_duree,0.1204353,numeric
+Solvent (enc.),conditions_reaction.solvant_enc,0.085665576,target_enc
+BET surface (m²/g),proprietes_structurales.BET_m2_g,0.07993184,numeric
+Light source (enc.),source_lumiere_enc,0.07428284,numeric
+Irradiation duration (h),conditions_reaction.duree_irradiation_h,0.06922454,onehot_enc
