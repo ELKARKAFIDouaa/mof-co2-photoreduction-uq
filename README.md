@@ -44,13 +44,7 @@ All random seeds are fixed (`SEED = 42`).
 
 A data dictionary describing every variable (name, type, unit, % missing, retained or excluded) is given in `data/curated/DATA_DICTIONARY.md`.
 
-### Known limitations
 
-- The dataset is concentrated on Zr-based UiO and Ti-based MIL materials, and on a typical experiment (300 W Xe lamp, no co-catalyst, no sacrificial agent).
-- Metal and MOF family are strongly collinear.
-- Reported rates mix several types (average, cumulative, initial) and come from different laboratories.
-- Entries from the same publication are not independent ([average] entries per article).
-- NLP validation is based on a gold set of [24] annotated records.
 
 ## NLP pipeline
 
